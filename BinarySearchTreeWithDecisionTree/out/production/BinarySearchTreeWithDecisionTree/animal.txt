@@ -1,0 +1,7 @@
+0,1,"Does animal eat meat?",""
+1,2,"Does animal have stripes?","left"
+1,3,"Does animal have stripes?","right"
+2,4,"Animal is a Tiger","left"
+2,5,"Animal is a Leopard","right"
+3,6,"Animal is a Zebra","left"
+3,7,"Animal is a Horse","right"

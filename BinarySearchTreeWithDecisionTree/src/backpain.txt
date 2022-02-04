@@ -1,0 +1,10 @@
+0,1,"Did the pain occur after a blow or jolt?",""
+1,2,"Do you have a fever?","left"
+1,3,"Do you have difficulty controlling your arms or legs?","right"
+2,4,"See doctor if pain persists","left"
+2,5,"You may have an inflammation of the joints","right"
+3,6,"Do you have a sore throat or runny nose?","left"
+3,7,"You may have a sprain or strain","right"
+6,8,"You may have a muscle or nerve injury","left"
+6,9,"See doctor to address symptoms","right"
+
