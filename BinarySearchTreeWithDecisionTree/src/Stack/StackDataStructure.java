@@ -9,7 +9,7 @@ package Stack;
 
 public class StackDataStructure {
     public static void main(String[] args) {
-        Stack s = new Stack(5);
+        StackCon s = new StackCon(5);
         s.push("Sathiyaraj");
         s.push("Ramamurthy");
         s.push("Padmavathi");
@@ -24,11 +24,11 @@ public class StackDataStructure {
     }
 }
 
-class Stack {
+class StackCon {
     private Object[] stackList;
     private int size;
     private int top;
-    public Stack(int size) {
+    public StackCon(int size) {
         this.size = size;
         this.stackList = new Object[size];
         this.top = 0;
